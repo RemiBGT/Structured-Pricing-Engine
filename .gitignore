@@ -1,0 +1,17 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de test temporaires (d'après votre capture d'écran)
+_tmp_smoke.py
+_check_import.py
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
