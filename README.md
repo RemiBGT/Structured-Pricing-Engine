@@ -1,6 +1,6 @@
 # Structured Products Pricing & Hedging Engine
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([YOUR_LINK_HERE](https://structured-pricing-engine-nvxiv5s6z4crzdwyvo6wmq.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([(https://structured-pricing-engine-nvxiv5s6z4crzdwyvo6wmq.streamlit.app/)])
 
 A Python-based pricing and risk engine for path-dependent structured products, built to combine quantitative clarity with practical performance. The project prices autocallables and cliquets with fully vectorized NumPy payoff logic, accelerates Monte Carlo simulations with Numba JIT, and exposes the workflow through an interactive Streamlit dashboard.
 
